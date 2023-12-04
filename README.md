@@ -8,8 +8,7 @@ Nepali Text Summarization using TF-IDF (Term Frequency-Inverse Document Frequenc
 
 ## Dataset/Corpus
 
-The project will draw from a meticulously curated Nepali language dataset, incorporating a diverse array of textual content. This dataset will include sources such as news articles, blogs, and literature, covering a broad spectrum of Nepali language usage. The selection process will prioritize data relevance, linguistic diversity, and cultural representation to ensure the model's effectiveness across various domains.
-
+It is just using NLTK Stopwords and uses no Corpus or Dataset. It is sole dependent on implementation of TF-IDF
 
 ## Project Idea
 
